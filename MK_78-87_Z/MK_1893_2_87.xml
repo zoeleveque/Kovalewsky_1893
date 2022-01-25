@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Coutume_contemporaine_et_loi_ancienne_[...]Kovalevskij_Maksim_bpt6k1182498b_105.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1005"
+          HEIGHT="1566"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1005"
+                  HEIGHT="1566">
+        
+        <TextBlock HPOS="177"
+                   VPOS="193"
+                   WIDTH="645"
+                   HEIGHT="1001"
+                   ID="eSc_textblock_0aaa86f1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="281 193 822 198 801 1194 177 1183 187 250 193 234 428 228 271 223 281 193"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_292a45ff"
+                    
+                    BASELINE="783 219 819 216" 
+                    HPOS="779"
+                    VPOS="181"
+                    WIDTH="41"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="783 219 779 181 815 182 819 216 820 225 802 234 802 234 802 234 801 234 801 234 800 234 800 234 800 234 798 234 780 229"/></Shape>
+	    <String CONTENT="87"
+                    HPOS="779"
+                    VPOS="181"
+                    WIDTH="41"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d2975ef"
+                    
+                    BASELINE="271 212 747 217" 
+                    HPOS="268"
+                    VPOS="181"
+                    WIDTH="482"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="271 212 270 189 388 181 390 181 390 181 489 189 497 184 497 184 498 184 498 184 499 184 499 184 499 184 501 184 501 184 501 184 502 184 502 184 502 184 503 184 503 184 511 190 737 186 738 186 738 186 740 186 740 186 740 186 741 186 741 186 750 194 747 217 745 228 268 219"/></Shape>
+	    <String CONTENT="CHAP. II. REGIME DES BIENS CHEZ LES OSSETES."
+                    HPOS="268"
+                    VPOS="181"
+                    WIDTH="482"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dee47d15"
+                    
+                    BASELINE="193 255 818 263" 
+                    HPOS="190"
+                    VPOS="242"
+                    WIDTH="628"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="193 255 193 249 509 251 511 250 518 244 518 242 518 242 519 242 519 242 519 242 520 242 520 242 522 242 608 242 608 242 817 251 818 263 815 270 190 263"/></Shape>
+	    <String CONTENT="propriété se trouvait toujours être dans quelques mains?"
+                    HPOS="190"
+                    VPOS="242"
+                    WIDTH="628"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8b0dee8"
+                    
+                    BASELINE="193 284 818 292" 
+                    HPOS="190"
+                    VPOS="258"
+                    WIDTH="628"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="193 284 193 258 817 268 818 292 815 297 190 289"/></Shape>
+	    <String CONTENT="Elle ne le fut certainement pas. Le vrai caractère de l’an-"
+                    HPOS="190"
+                    VPOS="258"
+                    WIDTH="628"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83725a05"
+                    
+                    BASELINE="191 313 818 321" 
+                    HPOS="189"
+                    VPOS="279"
+                    WIDTH="629"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="191 313 191 288 232 288 233 288 242 280 242 279 244 279 244 279 244 279 245 279 245 279 246 279 505 279 505 279 570 280 570 280 570 280 571 280 571 280 571 280 572 280 572 280 587 292 587 293 817 296 818 321 815 326 189 318"/></Shape>
+	    <String CONTENT="cien mode d’appropriation de la terre fut tout autre que"
+                    HPOS="189"
+                    VPOS="279"
+                    WIDTH="629"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d32cff10"
+                    
+                    BASELINE="191 341 817 351" 
+                    HPOS="189"
+                    VPOS="317"
+                    WIDTH="628"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="191 341 191 317 815 326 817 351 814 360 189 347"/></Shape>
+	    <String CONTENT="celui qu’on se figure ordinairement. Les procédés suivis"
+                    HPOS="189"
+                    VPOS="317"
+                    WIDTH="628"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e8b4f9f"
+                    
+                    BASELINE="191 370 818 379" 
+                    HPOS="189"
+                    VPOS="347"
+                    WIDTH="629"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="191 370 191 347 818 356 818 379 815 390 189 378"/></Shape>
+	    <String CONTENT="encore de nos jours par les communes agricoles de la"
+                    HPOS="189"
+                    VPOS="347"
+                    WIDTH="629"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce32a94c"
+                    
+                    BASELINE="191 399 817 409" 
+                    HPOS="189"
+                    VPOS="369"
+                    WIDTH="628"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="191 399 193 369 217 375 250 370 253 370 253 370 254 370 254 370 254 370 255 370 255 370 255 370 271 377 322 371 332 371 332 371 334 371 334 371 335 371 339 373 360 378 402 374 420 373 420 373 421 373 421 373 422 373 422 373 422 373 426 374 437 379 463 375 477 374 477 374 479 374 817 386 817 409 814 414 189 407"/></Shape>
+	    <String CONTENT="Russie, qui transportent le surplus de leurs populations"
+                    HPOS="189"
+                    VPOS="369"
+                    WIDTH="628"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6118b7c5"
+                    
+                    BASELINE="189 428 817 438" 
+                    HPOS="186"
+                    VPOS="403"
+                    WIDTH="631"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="189 428 189 403 817 414 817 438 814 447 186 433"/></Shape>
+	    <String CONTENT="dans les parties éloignées de leur mark, et qui, en quelques"
+                    HPOS="186"
+                    VPOS="403"
+                    WIDTH="631"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_683e755e"
+                    
+                    BASELINE="189 458 815 467" 
+                    HPOS="186"
+                    VPOS="433"
+                    WIDTH="629"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="189 458 189 433 814 442 815 467 813 472 186 463"/></Shape>
+	    <String CONTENT="années, font ainsi surgir des hameaux entiers sur la terre"
+                    HPOS="186"
+                    VPOS="433"
+                    WIDTH="629"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8d6deb4"
+                    
+                    BASELINE="189 486 814 494" 
+                    HPOS="186"
+                    VPOS="463"
+                    WIDTH="628"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="189 486 189 463 814 472 814 494 811 501 186 493"/></Shape>
+	    <String CONTENT="communale, jettent, croyons-nous, une vive lumière sur le"
+                    HPOS="186"
+                    VPOS="463"
+                    WIDTH="628"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27ecd9fd"
+                    
+                    BASELINE="187 516 813 523" 
+                    HPOS="185"
+                    VPOS="493"
+                    WIDTH="628"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="187 516 186 494 686 493 687 493 687 493 689 493 689 493 689 493 690 493 690 493 698 499 699 501 811 501 813 523 810 533 185 524"/></Shape>
+	    <String CONTENT="caractère de l’ancienne prise de possession, de l’antique"
+                    HPOS="185"
+                    VPOS="493"
+                    WIDTH="628"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5600e565"
+                    
+                    BASELINE="187 546 301 546" 
+                    HPOS="186"
+                    VPOS="522"
+                    WIDTH="115"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="187 546 187 522 301 523 301 546 300 555 186 553"/></Shape>
+	    <String CONTENT="occupatio."
+                    HPOS="186"
+                    VPOS="522"
+                    WIDTH="115"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93fdff69"
+                    
+                    BASELINE="211 574 813 582" 
+                    HPOS="208"
+                    VPOS="548"
+                    WIDTH="605"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="211 574 211 548 811 558 813 582 810 588 208 580"/></Shape>
+	    <String CONTENT="Cette prise de possession n’a pas lieu sur une terre va-"
+                    HPOS="208"
+                    VPOS="548"
+                    WIDTH="605"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8a0e8bf"
+                    
+                    BASELINE="186 602 811 612" 
+                    HPOS="184"
+                    VPOS="579"
+                    WIDTH="627"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="186 602 186 579 811 588 811 612 809 617 184 608"/></Shape>
+	    <String CONTENT="cante, mais sur une terre appartenant au clan; elle ne"
+                    HPOS="184"
+                    VPOS="579"
+                    WIDTH="627"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95dbe7c2"
+                    
+                    BASELINE="186 632 811 640" 
+                    HPOS="184"
+                    VPOS="608"
+                    WIDTH="627"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="186 632 186 608 810 617 811 640 809 645 184 640"/></Shape>
+	    <String CONTENT="se fait pas suivant le bon vouloir du particulier, mais de"
+                    HPOS="184"
+                    VPOS="608"
+                    WIDTH="627"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f16b2827"
+                    
+                    BASELINE="185 661 810 668" 
+                    HPOS="182"
+                    VPOS="632"
+                    WIDTH="628"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="185 661 185 632 809 644 810 668 807 675 182 668"/></Shape>
+	    <String CONTENT="l’avis et avec le consentement de la gens. Elle ne constitue"
+                    HPOS="182"
+                    VPOS="632"
+                    WIDTH="628"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b13e72df"
+                    
+                    BASELINE="185 690 809 696" 
+                    HPOS="182"
+                    VPOS="666"
+                    WIDTH="627"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="185 690 185 666 807 673 809 696 806 703 182 700"/></Shape>
+	    <String CONTENT="point la forme primitive de la propriété foncière; ce n’en"
+                    HPOS="182"
+                    VPOS="666"
+                    WIDTH="627"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aabe3321"
+                    
+                    BASELINE="185 717 809 724" 
+                    HPOS="182"
+                    VPOS="694"
+                    WIDTH="627"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="185 717 185 694 807 699 809 724 806 730 182 725"/></Shape>
+	    <String CONTENT="est au contraire qu’une forme dérivée. Les différences que"
+                    HPOS="182"
+                    VPOS="694"
+                    WIDTH="627"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06172b92"
+                    
+                    BASELINE="184 745 809 754" 
+                    HPOS="181"
+                    VPOS="722"
+                    WIDTH="628"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="184 745 184 722 807 730 809 754 806 759 181 750"/></Shape>
+	    <String CONTENT="nous signalons ne sont pas purement théoriques, elles"
+                    HPOS="181"
+                    VPOS="722"
+                    WIDTH="628"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c796cb06"
+                    
+                    BASELINE="184 773 807 783" 
+                    HPOS="181"
+                    VPOS="750"
+                    WIDTH="626"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="184 773 184 750 806 759 807 783 805 788 181 783"/></Shape>
+	    <String CONTENT="sont suivies de résultats pratiques très importants. L’in-"
+                    HPOS="181"
+                    VPOS="750"
+                    WIDTH="626"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b1c2f45"
+                    
+                    BASELINE="182 802 807 811" 
+                    HPOS="180"
+                    VPOS="777"
+                    WIDTH="627"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="182 802 182 777 806 786 807 811 805 816 180 807"/></Shape>
+	    <String CONTENT="dividu qui occupait un lot de terre n’en acquérait pas par"
+                    HPOS="180"
+                    VPOS="777"
+                    WIDTH="627"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66a834f6"
+                    
+                    BASELINE="182 832 807 840" 
+                    HPOS="180"
+                    VPOS="803"
+                    WIDTH="627"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="182 832 182 803 806 815 807 840 805 845 180 839"/></Shape>
+	    <String CONTENT="là seul le droit de propriété; il fallait encore le consente-"
+                    HPOS="180"
+                    VPOS="803"
+                    WIDTH="627"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a80e58d9"
+                    
+                    BASELINE="182 861 806 871" 
+                    HPOS="180"
+                    VPOS="836"
+                    WIDTH="626"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="182 861 182 836 805 846 806 871 804 876 180 866"/></Shape>
+	    <String CONTENT="ment verbal ou tacite de la communauté qui le détenait en"
+                    HPOS="180"
+                    VPOS="836"
+                    WIDTH="626"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bd11e04"
+                    
+                    BASELINE="181 890 805 899" 
+                    HPOS="178"
+                    VPOS="866"
+                    WIDTH="627"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="181 890 181 866 804 875 805 899 802 905 178 897"/></Shape>
+	    <String CONTENT="sa défense; le non-consentement était considéré comme"
+                    HPOS="178"
+                    VPOS="866"
+                    WIDTH="627"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d475762"
+                    
+                    BASELINE="182 920 805 929" 
+                    HPOS="180"
+                    VPOS="895"
+                    WIDTH="625"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="182 920 182 895 804 904 805 929 802 935 180 929"/></Shape>
+	    <String CONTENT="une protestation de la part de cette dernière. Les chartes"
+                    HPOS="180"
+                    VPOS="895"
+                    WIDTH="625"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06f87262"
+                    
+                    BASELINE="178 948 805 956" 
+                    HPOS="176"
+                    VPOS="925"
+                    WIDTH="629"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="178 948 178 925 805 933 805 956 802 963 176 956"/></Shape>
+	    <String CONTENT="des VIIe et VIIIe siècles, qui emploient le terme dominium ou"
+                    HPOS="176"
+                    VPOS="925"
+                    WIDTH="629"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ccba9af"
+                    
+                    BASELINE="177 977 805 985" 
+                    HPOS="174"
+                    VPOS="953"
+                    WIDTH="631"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="177 977 177 953 804 957 805 985 802 994 174 987"/></Shape>
+	    <String CONTENT="proprietas par rapport à la terre acquise par un travail"
+                    HPOS="174"
+                    VPOS="953"
+                    WIDTH="631"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_497f6684"
+                    
+                    BASELINE="180 1007 801 1015" 
+                    HPOS="177"
+                    VPOS="982"
+                    WIDTH="624"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="180 1007 180 982 800 990 801 1015 798 1024 177 1012"/></Shape>
+	    <String CONTENT="individuel (labore) ou par la sueur du front (sudore) (1),"
+                    HPOS="177"
+                    VPOS="982"
+                    WIDTH="624"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5004548f"
+                    
+                    BASELINE="180 1034 804 1044" 
+                    HPOS="177"
+                    VPOS="1011"
+                    WIDTH="627"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="180 1034 180 1011 802 1020 804 1044 801 1053 177 1042"/></Shape>
+	    <String CONTENT="font souvent mention des contestations que soulevaient, au"
+                    HPOS="177"
+                    VPOS="1011"
+                    WIDTH="627"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba56455b"
+                    
+                    BASELINE="178 1063 801 1074" 
+                    HPOS="176"
+                    VPOS="1038"
+                    WIDTH="625"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="178 1063 178 1038 800 1049 801 1074 798 1084 176 1068"/></Shape>
+	    <String CONTENT="sujet du droit de propriété sur de pareils lots de terrain,"
+                    HPOS="176"
+                    VPOS="1038"
+                    WIDTH="625"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_530e00d6"
+                    
+                    BASELINE="178 1092 804 1102" 
+                    HPOS="176"
+                    VPOS="1066"
+                    WIDTH="628"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="178 1092 178 1066 804 1079 804 1102 801 1107 176 1100"/></Shape>
+	    <String CONTENT="les marken et les communautés de parents, les délégués et"
+                    HPOS="176"
+                    VPOS="1066"
+                    WIDTH="628"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70626e18"
+                    
+                    BASELINE="178 1122 802 1131" 
+                    HPOS="176"
+                    VPOS="1097"
+                    WIDTH="626"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="178 1122 178 1097 801 1105 802 1131 800 1139 176 1127"/></Shape>
+	    <String CONTENT="fondés de pouvoir agissant en leur nom, ou bien encore les"
+                    HPOS="176"
+                    VPOS="1097"
+                    WIDTH="626"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bee3284"
+                    
+                    BASELINE="178 1148 800 1158" 
+                    HPOS="176"
+                    VPOS="1124"
+                    WIDTH="624"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="178 1148 178 1124 798 1135 800 1158 797 1166 176 1158"/></Shape>
+	    <String CONTENT="seigneurs féodaux qui venaient de prendre leurs places."
+                    HPOS="176"
+                    VPOS="1124"
+                    WIDTH="624"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17f77ce1"
+                    
+                    BASELINE="178 1178 801 1186" 
+                    HPOS="176"
+                    VPOS="1154"
+                    WIDTH="625"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="178 1178 178 1154 800 1162 801 1186 798 1196 176 1184"/></Shape>
+	    <String CONTENT="Dans les plus anciennes chartes des monastères suisses on"
+                    HPOS="176"
+                    VPOS="1154"
+                    WIDTH="625"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="177"
+                   VPOS="1205"
+                   WIDTH="629"
+                   HEIGHT="72"
+                   ID="eSc_textblock_10770036"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="198 1205 764 1205 806 1216 806 1256 608 1277 182 1272 177 1231 198 1205"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4550c8eb"
+                    
+                    BASELINE="194 1224 800 1231" 
+                    HPOS="191"
+                    VPOS="1203"
+                    WIDTH="609"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="194 1224 194 1203 800 1211 800 1231 797 1238 191 1231"/></Shape>
+	    <String CONTENT="(1) On trouve souvent dans les chartes de l’abbaye de Saint-Gall des VIIIe"
+                    HPOS="191"
+                    VPOS="1203"
+                    WIDTH="609"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2049127e"
+                    
+                    BASELINE="178 1243 800 1254" 
+                    HPOS="176"
+                    VPOS="1222"
+                    WIDTH="624"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="178 1243 178 1222 800 1233 800 1254 797 1264 176 1254"/></Shape>
+	    <String CONTENT="et IXe siècles l’expression : quod laboravi, ou quod sudore acquisivi. Wart-"
+                    HPOS="176"
+                    VPOS="1222"
+                    WIDTH="624"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c90a5aa"
+                    
+                    BASELINE="184 1267 609 1269" 
+                    HPOS="181"
+                    VPOS="1244"
+                    WIDTH="428"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="184 1267 184 1244 608 1248 609 1269 606 1288 428 1280 415 1282 399 1288 398 1288 398 1288 396 1288 396 1288 396 1288 395 1288 395 1288 381 1282 371 1278 356 1281 335 1285 335 1285 335 1285 334 1285 334 1285 332 1285 332 1285 332 1285 331 1285 331 1285 326 1281 324 1280 323 1280 317 1286 317 1286 315 1286 315 1286 315 1286 314 1286 314 1286 313 1286 313 1286 313 1286 280 1280 276 1278 272 1278 246 1286 245 1286 245 1286 245 1286 244 1286 244 1286 181 1276"/></Shape>
+	    <String CONTENT="mann, Urkundenbuch der Abtei Saint-Gallen, t. I."
+                    HPOS="181"
+                    VPOS="1244"
+                    WIDTH="428"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

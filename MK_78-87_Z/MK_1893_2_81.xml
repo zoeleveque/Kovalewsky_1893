@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Coutume_contemporaine_et_loi_ancienne_...Kovalevskij_Maksim_bpt6k1182498b_7.pdf_page_4.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="4266"
+          HEIGHT="6521"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4266"
+                  HEIGHT="6521">
+        
+        <TextBlock HPOS="826"
+                   VPOS="739"
+                   WIDTH="2657"
+                   HEIGHT="4233"
+                   ID="eSc_textblock_5302c85c"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1173 739 3483 760 3461 4972 826 4950 826 934 2901 907 1130 842 1173 739"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4c637ef5"
+                    
+                    BASELINE="3320 842 3467 842" 
+                    HPOS="3314"
+                    VPOS="717"
+                    WIDTH="153"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="3320 842 3320 717 3467 728 3467 842 3461 885 3314 864"/></Shape>
+	    <String CONTENT="81"
+                    HPOS="3314"
+                    VPOS="717"
+                    WIDTH="153"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec99f11f"
+                    
+                    BASELINE="1130 820 3162 842" 
+                    HPOS="1119"
+                    VPOS="679"
+                    WIDTH="2043"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="1130 820 1135 679 1249 706 1532 690 1679 679 1684 679 1684 679 1684 679 1690 679 1690 679 1690 679 1695 679 1711 690 1749 711 2027 701 2423 684 2429 684 2429 684 2429 684 2434 684 2434 684 2434 684 2440 684 2478 711 2483 717 2516 711 2679 690 2679 690 2684 690 2684 690 2891 717 2929 690 2929 690 2934 690 2934 690 2934 690 2940 690 2940 690 2945 690 2945 690 2945 690 3162 733 3162 842 3151 864 1119 858"/></Shape>
+	    <String CONTENT="CHAP. II. REGIME DES BIENS CHEZ LES OSSETES."
+                    HPOS="1119"
+                    VPOS="679"
+                    WIDTH="2043"
+                    HEIGHT="185"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4173ca69"
+                    
+                    BASELINE="826 1005 3472 1021" 
+                    HPOS="815"
+                    VPOS="896"
+                    WIDTH="2657"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="826 1005 826 896 3467 912 3472 1021 3461 1065 815 1048"/></Shape>
+	    <String CONTENT="pays ennemi, des discordes sans fin s’élèvent dans le feu"
+                    HPOS="815"
+                    VPOS="896"
+                    WIDTH="2657"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28323ad8"
+                    
+                    BASELINE="826 1124 3472 1157" 
+                    HPOS="815"
+                    VPOS="1021"
+                    WIDTH="2657"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="826 1124 826 1021 3467 1037 3472 1157 3461 1184 815 1152"/></Shape>
+	    <String CONTENT="de son père. Le doyen d’âge, son frère, et ses deux fils qui"
+                    HPOS="815"
+                    VPOS="1021"
+                    WIDTH="2657"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbd1b97a"
+                    
+                    BASELINE="826 1244 3483 1271" 
+                    HPOS="815"
+                    VPOS="1124"
+                    WIDTH="2668"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="826 1244 826 1124 3478 1168 3483 1271 3472 1293 815 1287"/></Shape>
+	    <String CONTENT="sont restés à la maison, se disputent chaque jour pour"
+                    HPOS="815"
+                    VPOS="1124"
+                    WIDTH="2668"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41ec3f8b"
+                    
+                    BASELINE="826 1363 3483 1396" 
+                    HPOS="815"
+                    VPOS="1260"
+                    WIDTH="2668"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="826 1363 820 1266 2592 1260 2597 1260 3478 1298 3483 1396 3472 1423 815 1391"/></Shape>
+	    <String CONTENT="savoir à qui appartiendront les jeunes filles qui seront ra-"
+                    HPOS="815"
+                    VPOS="1260"
+                    WIDTH="2668"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79e3caf7"
+                    
+                    BASELINE="826 1494 3472 1516" 
+                    HPOS="815"
+                    VPOS="1391"
+                    WIDTH="2657"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="826 1494 826 1391 3467 1418 3472 1516 3461 1548 815 1516"/></Shape>
+	    <String CONTENT="menées prisonnières. Mais voici que Kaouerbek, mira-"
+                    HPOS="815"
+                    VPOS="1391"
+                    WIDTH="2657"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98e41a96"
+                    
+                    BASELINE="826 1624 1912 1619 3488 1651" 
+                    HPOS="815"
+                    VPOS="1510"
+                    WIDTH="2673"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="826 1624 820 1510 3488 1543 3488 1651 3478 1684 815 1651"/></Shape>
+	    <String CONTENT="culeusement guéri des blessures que ses frères lui avaient"
+                    HPOS="815"
+                    VPOS="1510"
+                    WIDTH="2673"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efa4c1b8"
+                    
+                    BASELINE="826 1733 3483 1766" 
+                    HPOS="815"
+                    VPOS="1635"
+                    WIDTH="2668"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="826 1733 826 1635 3478 1662 3483 1766 3472 1804 815 1755"/></Shape>
+	    <String CONTENT="faites, retourne sain et sauf au foyer natal accompagné"
+                    HPOS="815"
+                    VPOS="1635"
+                    WIDTH="2668"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a81eb070"
+                    
+                    BASELINE="826 1863 3472 1891" 
+                    HPOS="815"
+                    VPOS="1749"
+                    WIDTH="2657"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="826 1863 820 1760 2407 1749 2412 1749 2412 1749 2418 1749 2418 1749 2418 1749 2472 1776 2478 1776 2537 1776 2907 1755 2912 1755 2912 1755 2912 1755 2918 1755 2918 1755 2923 1755 2923 1755 2956 1782 2961 1787 3467 1787 3472 1891 3461 1923 815 1896"/></Shape>
+	    <String CONTENT="de plusieurs vierges qu’il a enlevées aux tribus voisines."
+                    HPOS="815"
+                    VPOS="1749"
+                    WIDTH="2657"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4430a7b"
+                    
+                    BASELINE="826 1983 3478 2010" 
+                    HPOS="815"
+                    VPOS="1874"
+                    WIDTH="2663"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="826 1983 826 1874 3472 1896 3478 2010 3467 2048 815 2010"/></Shape>
+	    <String CONTENT="Il les donne immédiatement en mariage à ses oncles et à"
+                    HPOS="815"
+                    VPOS="1874"
+                    WIDTH="2663"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c2c4076"
+                    
+                    BASELINE="820 2108 3478 2135" 
+                    HPOS="809"
+                    VPOS="2010"
+                    WIDTH="2669"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="820 2108 820 2010 3472 2037 3478 2135 3467 2162 809 2135"/></Shape>
+	    <String CONTENT="ses frères suivant le désir de chacun. Seul, son vieux"
+                    HPOS="809"
+                    VPOS="2010"
+                    WIDTH="2669"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_591590b0"
+                    
+                    BASELINE="826 2238 3472 2249" 
+                    HPOS="815"
+                    VPOS="2135"
+                    WIDTH="2657"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="826 2238 826 2135 3467 2146 3472 2249 3461 2282 815 2271"/></Shape>
+	    <String CONTENT="père, n’avait point sa part de butin. Le héros se remet en"
+                    HPOS="815"
+                    VPOS="2135"
+                    WIDTH="2657"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0164d3c8"
+                    
+                    BASELINE="826 2363 3472 2374" 
+                    HPOS="815"
+                    VPOS="2255"
+                    WIDTH="2657"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="826 2363 826 2255 3467 2271 3472 2374 3461 2396 815 2385"/></Shape>
+	    <String CONTENT="campagne et ramène bientôt une beauté parfaite qu’on ne"
+                    HPOS="815"
+                    VPOS="2255"
+                    WIDTH="2657"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea726684"
+                    
+                    BASELINE="826 2483 3472 2499" 
+                    HPOS="815"
+                    VPOS="2385"
+                    WIDTH="2657"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="826 2483 826 2385 3467 2401 3472 2499 3461 2543 815 2526"/></Shape>
+	    <String CONTENT="pouvait se lasser d’admirer et qu’il donne pour femme à"
+                    HPOS="815"
+                    VPOS="2385"
+                    WIDTH="2657"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_290df2f2"
+                    
+                    BASELINE="820 2608 3472 2619" 
+                    HPOS="809"
+                    VPOS="2505"
+                    WIDTH="2663"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="820 2608 820 2505 3467 2521 3472 2619 3461 2646 809 2630"/></Shape>
+	    <String CONTENT="son père (1). » Ainsi chacun vivant dans la dépendance de"
+                    HPOS="809"
+                    VPOS="2505"
+                    WIDTH="2663"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32ba2408"
+                    
+                    BASELINE="820 2727 3472 2738" 
+                    HPOS="809"
+                    VPOS="2613"
+                    WIDTH="2663"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="820 2727 820 2613 3467 2641 3472 2738 3461 2765 809 2760"/></Shape>
+	    <String CONTENT="la communauté familiale, tous les gains particuliers étaient"
+                    HPOS="809"
+                    VPOS="2613"
+                    WIDTH="2663"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a31b74ce"
+                    
+                    BASELINE="820 2847 3472 2863" 
+                    HPOS="809"
+                    VPOS="2744"
+                    WIDTH="2663"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="820 2847 815 2749 3461 2744 3472 2863 3461 2912 809 2896"/></Shape>
+	    <String CONTENT="primitivement adaptés à l’usage commun, même ceux qui"
+                    HPOS="809"
+                    VPOS="2744"
+                    WIDTH="2663"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_649bc46e"
+                    
+                    BASELINE="820 2977 2641 2977" 
+                    HPOS="820"
+                    VPOS="2874"
+                    WIDTH="1821"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="820 2977 820 2874 2641 2885 2641 2977 2641 3015 820 3026"/></Shape>
+	    <String CONTENT="provenaient de la chasse et de la guerre."
+                    HPOS="820"
+                    VPOS="2874"
+                    WIDTH="1821"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ad31487"
+                    
+                    BASELINE="918 3092 3478 3108" 
+                    HPOS="907"
+                    VPOS="2988"
+                    WIDTH="2571"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="918 3092 918 2988 3472 3005 3478 3108 3467 3140 907 3113"/></Shape>
+	    <String CONTENT="Cependant les anciennes législations aryennes et en par-"
+                    HPOS="907"
+                    VPOS="2988"
+                    WIDTH="2571"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea50dd4d"
+                    
+                    BASELINE="820 3206 3472 3227" 
+                    HPOS="809"
+                    VPOS="3108"
+                    WIDTH="2663"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="820 3206 820 3108 3467 3130 3472 3227 3461 3260 809 3233"/></Shape>
+	    <String CONTENT="ticulier le droit Hindou et celui des Celtes de l’Irlande, les"
+                    HPOS="809"
+                    VPOS="3108"
+                    WIDTH="2663"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6a38860"
+                    
+                    BASELINE="820 3331 3472 3352" 
+                    HPOS="809"
+                    VPOS="3233"
+                    WIDTH="2663"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="820 3331 820 3233 3467 3255 3472 3352 3461 3385 809 3363"/></Shape>
+	    <String CONTENT="coutumes contemporaines des Slaves du sud et des paysans"
+                    HPOS="809"
+                    VPOS="3233"
+                    WIDTH="2663"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1c5252f"
+                    
+                    BASELINE="820 3456 3472 3472" 
+                    HPOS="809"
+                    VPOS="3358"
+                    WIDTH="2663"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="820 3456 820 3358 3467 3374 3472 3472 3461 3499 809 3483"/></Shape>
+	    <String CONTENT="de la Grande-Russie, nous montrent déjà de très nom-"
+                    HPOS="809"
+                    VPOS="3358"
+                    WIDTH="2663"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a6430dd"
+                    
+                    BASELINE="826 3581 3467 3602" 
+                    HPOS="815"
+                    VPOS="3461"
+                    WIDTH="2652"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="826 3581 826 3461 3461 3499 3467 3602 3456 3624 815 3608"/></Shape>
+	    <String CONTENT="breuses exceptions à cette règle. Les tribunaux anglo-in-"
+                    HPOS="815"
+                    VPOS="3461"
+                    WIDTH="2652"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81124644"
+                    
+                    BASELINE="820 3706 3472 3722" 
+                    HPOS="809"
+                    VPOS="3586"
+                    WIDTH="2663"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="820 3706 820 3586 3467 3624 3472 3722 3461 3749 809 3733"/></Shape>
+	    <String CONTENT="diens fort scrupuleux dans l’application de la coutume in-"
+                    HPOS="809"
+                    VPOS="3586"
+                    WIDTH="2663"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49888580"
+                    
+                    BASELINE="820 3831 3472 3852" 
+                    HPOS="809"
+                    VPOS="3727"
+                    WIDTH="2663"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="820 3831 820 3727 3467 3738 3472 3852 3461 3885 809 3852"/></Shape>
+	    <String CONTENT="digène, établissent une distinction à laquelle nous avons"
+                    HPOS="809"
+                    VPOS="3727"
+                    WIDTH="2663"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6102b21"
+                    
+                    BASELINE="820 3956 3467 3966" 
+                    HPOS="815"
+                    VPOS="3858"
+                    WIDTH="2652"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="820 3956 820 3858 3461 3869 3467 3966 3461 3994 815 3999"/></Shape>
+	    <String CONTENT="déjà fait allusion. Ce qu’une personne acquiert par son ca-"
+                    HPOS="815"
+                    VPOS="3858"
+                    WIDTH="2652"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df3a9ad7"
+                    
+                    BASELINE="820 4075 3472 4097" 
+                    HPOS="815"
+                    VPOS="3972"
+                    WIDTH="2657"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="820 4075 820 3972 3467 3994 3472 4097 3467 4129 815 4129"/></Shape>
+	    <String CONTENT="pital privé lui reste propre : elle n’est point tenue de le"
+                    HPOS="815"
+                    VPOS="3972"
+                    WIDTH="2657"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4aeefb85"
+                    
+                    BASELINE="815 4200 3472 4216" 
+                    HPOS="809"
+                    VPOS="4102"
+                    WIDTH="2663"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="815 4200 815 4102 3467 4119 3472 4216 3467 4249 809 4249"/></Shape>
+	    <String CONTENT="partager; ce qu’elle acquiert, au contraire, au moyen du ca-"
+                    HPOS="809"
+                    VPOS="4102"
+                    WIDTH="2663"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42777781"
+                    
+                    BASELINE="820 4320 3472 4336" 
+                    HPOS="809"
+                    VPOS="4222"
+                    WIDTH="2663"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="820 4320 820 4222 3467 4238 3472 4336 3461 4379 809 4358"/></Shape>
+	    <String CONTENT="pital de la famille tombe dans le patrimoine commun. Con-"
+                    HPOS="809"
+                    VPOS="4222"
+                    WIDTH="2663"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2280c2cb"
+                    
+                    BASELINE="820 4434 3472 4456" 
+                    HPOS="809"
+                    VPOS="4336"
+                    WIDTH="2663"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="820 4434 820 4336 3467 4347 3472 4456 3461 4499 809 4461"/></Shape>
+	    <String CONTENT="formément à cet usage, la législation indoue reconnaît"
+                    HPOS="809"
+                    VPOS="4336"
+                    WIDTH="2663"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23057de8"
+                    
+                    BASELINE="815 4564 3472 4586" 
+                    HPOS="804"
+                    VPOS="4461"
+                    WIDTH="2668"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="815 4564 815 4461 3467 4466 3472 4586 3461 4613 804 4591"/></Shape>
+	    <String CONTENT="comme appartenant individuellement aux brahmanes, les"
+                    HPOS="804"
+                    VPOS="4461"
+                    WIDTH="2668"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b04cd20"
+                    
+                    BASELINE="820 4678 3467 4695" 
+                    HPOS="809"
+                    VPOS="4575"
+                    WIDTH="2658"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="820 4678 820 4575 3461 4597 3467 4695 3456 4738 809 4711"/></Shape>
+	    <String CONTENT="honoraires que leur payent leurs élèves, et tous les cadeaux"
+                    HPOS="809"
+                    VPOS="4575"
+                    WIDTH="2658"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a524d88"
+                    
+                    BASELINE="820 4798 3472 4825" 
+                    HPOS="809"
+                    VPOS="4700"
+                    WIDTH="2663"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="820 4798 820 4700 3467 4727 3472 4825 3461 4852 809 4836"/></Shape>
+	    <String CONTENT="qu’ils reçoivent; on les considère comme le produit d’un"
+                    HPOS="809"
+                    VPOS="4700"
+                    WIDTH="2663"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec509139"
+                    
+                    BASELINE="820 4923 3467 4945" 
+                    HPOS="809"
+                    VPOS="4820"
+                    WIDTH="2658"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="820 4923 820 4820 3461 4841 3467 4945 3456 4999 809 4961"/></Shape>
+	    <String CONTENT="travail séparé obtenu sans l’aide de capitaux fournis par la"
+                    HPOS="809"
+                    VPOS="4820"
+                    WIDTH="2658"
+                    HEIGHT="179"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="826"
+                   VPOS="5108"
+                   WIDTH="2657"
+                   HEIGHT="342"
+                   ID="eSc_textblock_9ae8c1c9"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="934 5108 3418 5108 3483 5233 1690 5320 1597 5450 1173 5450 1043 5428 1037 5320 826 5298 934 5108"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e37643be"
+                    
+                    BASELINE="891 5200 3472 5211" 
+                    HPOS="880"
+                    VPOS="5102"
+                    WIDTH="2592"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="891 5200 891 5102 3467 5102 3472 5211 3461 5265 880 5222"/></Shape>
+	    <String CONTENT="(1) Voir les Renseignements sur les montagnards du Caucase, 9e li-"
+                    HPOS="880"
+                    VPOS="5102"
+                    WIDTH="2592"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04cc5ef5"
+                    
+                    BASELINE="831 5276 2619 5298" 
+                    HPOS="820"
+                    VPOS="5189"
+                    WIDTH="1799"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="831 5276 831 5189 2619 5216 2619 5298 2608 5368 2108 5341 1662 5347 978 5352 972 5352 972 5352 820 5320"/></Shape>
+	    <String CONTENT="vraison, récit concernant Kaouerbek, p. 40 et suiv."
+                    HPOS="820"
+                    VPOS="5189"
+                    WIDTH="1799"
+                    HEIGHT="179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caf3fa65"
+                    
+                    BASELINE="1043 5417 1608 5417" 
+                    HPOS="1037"
+                    VPOS="5320"
+                    WIDTH="577"
+                    HEIGHT="211">
+            <Shape><Polygon POINTS="1043 5417 1037 5336 1603 5320 1608 5417 1614 5493 1516 5531 1516 5531 1510 5531 1510 5531 1505 5531 1505 5531 1505 5531 1499 5531 1385 5499 1374 5499 1364 5499 1244 5531 1239 5531 1239 5531 1233 5531 1233 5531 1037 5504"/></Shape>
+	    <String CONTENT="OSSETES. — T.I."
+                    HPOS="1037"
+                    VPOS="5320"
+                    WIDTH="577"
+                    HEIGHT="211"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2967"
+                   VPOS="5390"
+                   WIDTH="59"
+                   HEIGHT="38"
+                   ID="eSc_textblock_0f98c996"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2967 5390 3026 5390 3026 5428 2967 5428 2967 5390"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
